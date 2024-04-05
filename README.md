@@ -4,4 +4,5 @@ It uses:
 ```
 Midas
 OpenCV
+torch
 ```
